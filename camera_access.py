@@ -1,7 +1,7 @@
-read and show video stream , capture image
-detect face and show bounding box(haarcascade)
-flatten the largest face image and save in numpy array
-repeat the above for multiple people to generate training data
+# read and show video stream , capture image
+# detect face and show bounding box(haarcascade)
+# flatten the largest face image and save in numpy array
+# repeat the above for multiple people to generate training data
 
 import cv2
 import numpy
